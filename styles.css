@@ -35,7 +35,7 @@
         animation: rotate 2s linear infinite;
     }
     div::after{
-        content: 'Site Comming Soon';
+        content: 'Comming Soon';
         width: 190px;
         height: 190px;
         background: #101010;
